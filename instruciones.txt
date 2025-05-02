@@ -1,1 +1,2 @@
 curl -O https://raw.githubusercontent.com/infraestructura-it/node-red-x9/main/setup.sh
+curl -O https://raw.githubusercontent.com/infraestructura-it/node-red-x9/nodered-flujos/main/setup.sh
